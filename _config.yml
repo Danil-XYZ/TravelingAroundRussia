@@ -1,0 +1,7 @@
+# _config.yml
+include:
+  - __cover
+  - __intro
+  - __lead
+  - __photo-grid
+  - __places
